@@ -1,0 +1,29 @@
+{
+  "todos": [
+    {
+      "id": 1,
+      "text": "Learning react",
+      "done": true
+    },
+    {
+      "id": 2,
+      "text": "Learning Docker",
+      "done": false
+    },
+    {
+      "id": 3,
+      "text": "Do sport",
+      "done": true
+    },
+    {
+      "id": 4,
+      "text": "Practice VueJS",
+      "done": false
+    },
+    {
+      "text": "test",
+      "id": "56902c0d-8a97-4db7-8b2f-40465b7ea059",
+      "done": false
+    }
+  ]
+}
